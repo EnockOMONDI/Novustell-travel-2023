@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.creative-tim.com	TRUE	/	FALSE	1999999999	_creativetim_session	XB5zj9UchFARciyMVB4s1W3HqLIHb%2BQ1nqHxgfkbIo9YQIjmVQjWFA5OwAqIsUUqfEv4TMzt90k8%2BpoP35At3bQg9VT7ke8pcN%2BOR3oW6JP2qYUxeQibIT5NTLIz4T94MJMpC7uxwmbUxMl8nwWo2xbuODHXai7Su9ZgRe5TcTc4oKS2%2B4mg2CXyggUzmu%2FGCX7QMJ8BBvSnciaWEnT224L2kgQTxYMJ%2F4gLlSNq36fHwAvfHttdzmU63KGz3bpUv7nB%2Fbeim74Kt7ngBDulcPGBuZ0qMxoQBvUptxSQfzpb4QeNtrz%2BV996N6VX27xmuXEQdqrRjHY%3D--MebxUTHb1EijE7uu--T22DbprutDx3c7O0RSHDHg%3D%3D
+www.creative-tim.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

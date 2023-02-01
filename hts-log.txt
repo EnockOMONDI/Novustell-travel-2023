@@ -1,0 +1,719 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Tue, 24 Jan 2023 19:04:15 at https://demos.creative-tim.com/soft-ui-design-system-pro/presentation.html?_ga=2.15061362.519695058.1674476431-246627364.1674476431 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -iC1 https://demos.creative-tim.com/soft-ui-design-system-pro/presentation.html?_ga=2.15061362.519695058.1674476431-246627364.1674476431 -O "/home/sean/websites/SOFT UI TEMPLATE" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:04:16	Warning: 	Cache: damaged cache, trying to repair
+19:04:19	Warning: 	Cache: 48627940 bytes successfully recovered in 4536 entries
+19:04:21	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.googletagmanager.com/gtm5445.html.tmp already exists
+19:04:28	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/pages/"https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/funny.jpg" (from https://demos.creative-tim.com/soft-ui-design-system-pro/pages/about-us.html)
+19:04:28	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/pages/'../assets/img/nastuh.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/pages/digital-agency.html)
+19:04:29	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/pages/'../assets/img/card-3.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/pages/digital-agency.html)
+19:04:29	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/pages/'../assets/img/card-2.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/pages/digital-agency.html)
+19:04:29	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/pages/'../assets/img/meeting.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/pages/digital-agency.html)
+19:04:29	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/pages/'../assets/img/anastasia.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/pages/digital-agency.html)
+19:04:29	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/pages/'../assets/img/annie-spratt.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/pages/digital-agency.html)
+19:04:29	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/pages/'https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/indian.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/pages/digital-agency.html)
+19:04:29	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/pages/'https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/greece.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/pages/digital-agency.html)
+19:04:29	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/pages/'https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/city.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/pages/digital-agency.html)
+19:04:29	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/pages/'https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/laught.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/pages/digital-agency.html)
+19:04:29	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/assets/img/curved-images/curved6-small.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/pricing.html)
+19:04:29	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/'https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/indian.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/blog-posts.html)
+19:04:29	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/'https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/greece.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/blog-posts.html)
+19:04:29	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/'https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/city.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/blog-posts.html)
+19:04:29	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/'https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/laught.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/blog-posts.html)
+19:04:29	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/'https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/white-architecture.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/blog-posts.html)
+19:04:29	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/'https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/color-flats.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/blog-posts.html)
+19:04:30	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/'https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/color-detail.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/blog-posts.html)
+19:04:30	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/assets/img/office-1.jpeg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/testimonials.html)
+19:04:30	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/assets/img/office-2.jpeg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/testimonials.html)
+19:04:30	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/assets/img/curved-images/curved14.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/teams.html)
+19:04:30	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/assets/img/curved-images/curved1.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/applications.html)
+19:04:30	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/assets/img/curved-images/curved2.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/applications.html)
+19:04:30	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/'https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/team-working.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/applications.html)
+19:04:30	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/'https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/toboshar.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/applications.html)
+19:04:30	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/'https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/umbrellas.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/applications.html)
+19:04:30	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/'https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/coffee-shop.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/applications.html)
+19:04:30	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/"https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/pool.jpg" (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/general-cards.html)
+19:04:30	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/"https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/macbook.jpg" (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/general-cards.html)
+19:04:30	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/assets/img/curved-images/curved8.jpg" (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/general-cards.html)
+19:04:30	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/assets/img/nastuh.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/content-sections.html)
+19:04:30	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/assets/img/card-3.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/content-sections.html)
+19:04:30	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/assets/img/card-2.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/content-sections.html)
+19:04:30	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/assets/img/meeting.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/content-sections.html)
+19:04:30	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/assets/img/anastasia.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/content-sections.html)
+19:04:30	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/assets/img/annie-spratt.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/content-sections.html)
+19:04:30	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/'https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/cave.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/content-sections.html)
+19:04:30	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/input-areas/assets/img/curved-images/curved1.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/input-areas/contact-sections.html)
+19:04:30	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/input-areas/assets/img/curved-images/curved8.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/input-areas/contact-sections.html)
+19:04:30	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/input-areas/assets/img/curved-images/curved5.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/input-areas/contact-sections.html)
+19:05:08	Error: 	"Unknown error" (530) at link https://www.creative-tim.com/product/black-dashboard-angular/reviews (from https://www.creative-tim.com/product/black-dashboard-angular)
+19:05:08	Error: 	"Unknown error" (530) at link https://www.creative-tim.com/product/black-dashboard-pro-angular/reviews?page=2 (from https://www.creative-tim.com/product/black-dashboard-pro-angular/reviews)
+19:05:08	Error: 	"Unknown error" (530) at link https://www.creative-tim.com/product/black-dashboard-pro-angular/reviews?page=3 (from https://www.creative-tim.com/product/black-dashboard-pro-angular/reviews)
+19:05:08	Warning: 	Moved Permanently for https://www.creative-tim.com/product/”https://demos.creative-tim.com/blk-design-system-angular/
+19:05:08	Warning: 	File has moved from https://www.creative-tim.com/product/”https://demos.creative-tim.com/blk-design-system-angular/ to /product/%E2%80%9Dhttps://demos.creative-tim.com/blk-design-system-angular
+19:05:16	Error: 	"Not Found" (404) at link https://www.creative-tim.com/product/”https://fonts.google.com/specimen/Roboto” (from https://www.creative-tim.com/product/material-kit-react-native)
+19:05:59	Error: 	"Not Found" (404) at link https://www.creative-tim.com/product/”https://demos.creative-tim.com/blk-design-system-angular (from https://www.creative-tim.com/product/”https://demos.creative-tim.com/blk-design-system-angular/)
+19:06:51	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard-react/reviewsce8a.html.tmp already exists
+19:06:51	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard-react/reviews6c2f.html.tmp already exists
+19:06:52	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/now-ui-dashboard/reviews9683.html.tmp already exists
+19:06:52	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/light-bootstrap-dashboard-react/reviews9683.html.tmp already exists
+19:06:52	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/light-bootstrap-dashboard-react/reviews7537.html.tmp already exists
+19:06:52	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/light-bootstrap-dashboard-react/reviewsf62c.html.tmp already exists
+19:06:52	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/light-bootstrap-dashboard-react/reviewse4a7.html.tmp already exists
+19:06:52	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/light-bootstrap-dashboard-react/reviews89ae.html.tmp already exists
+19:06:52	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/light-bootstrap-dashboard-react/reviews3c09.html.tmp already exists
+19:06:52	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/now-ui-kit/reviews9683.html.tmp already exists
+19:06:53	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/now-ui-kit/reviews7537.html.tmp already exists
+19:06:53	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/now-ui-kit/reviewsf62c.html.tmp already exists
+19:06:53	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/now-ui-kit/reviewse4a7.html.tmp already exists
+19:06:53	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/now-ui-kit/reviewsb5a4.html.tmp already exists
+19:06:53	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/now-ui-kit/reviews3a0d.html.tmp already exists
+19:06:53	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/now-ui-kit/reviewsa27b.html.tmp already exists
+19:06:53	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/now-ui-kit/reviews96d9.html.tmp already exists
+19:06:54	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard-angular2/reviews9683.html.tmp already exists
+19:06:54	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard-angular2/reviews7537.html.tmp already exists
+19:06:54	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard-angular2/reviewsf62c.html.tmp already exists
+19:06:54	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard-angular2/reviewse4a7.html.tmp already exists
+19:06:54	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard-angular2/reviews708f.html.tmp already exists
+19:06:54	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard-angular2/reviews324e.html.tmp already exists
+19:06:54	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard-angular2/reviews7251.html.tmp already exists
+19:06:54	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard-angular2/reviewscadd.html.tmp already exists
+19:06:54	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard-pro/reviews3c09.html.tmp already exists
+19:06:54	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard-pro/reviews89ae.html.tmp already exists
+19:06:54	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard-pro/reviews1d82.html.tmp already exists
+19:06:54	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard-pro/reviews8c06.html.tmp already exists
+19:06:55	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard-pro/reviews09f5.html.tmp already exists
+19:06:55	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard-pro/reviewsbd1b.html.tmp already exists
+19:06:55	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard-pro/reviewse51f.html.tmp already exists
+19:06:55	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard-pro/reviewse24e.html.tmp already exists
+19:06:55	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-kit-pro/reviews3c09.html.tmp already exists
+19:06:55	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-kit-pro/reviews89ae.html.tmp already exists
+19:06:55	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-kit-pro/reviews1d82.html.tmp already exists
+19:06:55	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-kit-pro/reviews8c06.html.tmp already exists
+19:06:55	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-kit-pro/reviewse51f.html.tmp already exists
+19:06:55	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-kit-pro/reviewsdcf3.html.tmp already exists
+19:06:55	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-kit-pro/reviewsfa9c.html.tmp already exists
+19:06:55	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-kit-pro/reviewsbd1b.html.tmp already exists
+19:06:55	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-kit-pro-bs4/reviews3c09.html.tmp already exists
+19:06:55	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-kit-pro-bs4/reviews89ae.html.tmp already exists
+19:06:55	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-kit-pro-bs4/reviews1d82.html.tmp already exists
+19:06:55	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-kit-pro-bs4/reviews8c06.html.tmp already exists
+19:06:55	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-kit-pro-bs4/reviewse24e.html.tmp already exists
+19:06:55	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-kit-pro-bs4/reviewsfa9c.html.tmp already exists
+19:06:55	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-kit-pro-bs4/reviewsbd1b.html.tmp already exists
+19:06:56	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-kit-pro-bs4/reviewse51f.html.tmp already exists
+19:06:56	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/light-bootstrap-dashboard/reviews9683.html.tmp already exists
+19:06:56	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/light-bootstrap-dashboard/reviews7537.html.tmp already exists
+19:06:56	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/light-bootstrap-dashboard/reviewsf62c.html.tmp already exists
+19:06:56	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/light-bootstrap-dashboard/reviewse4a7.html.tmp already exists
+19:06:56	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/light-bootstrap-dashboard/reviews6c2f.html.tmp already exists
+19:06:56	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/light-bootstrap-dashboard/reviews763c.html.tmp already exists
+19:06:56	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/light-bootstrap-dashboard/reviews8b08.html.tmp already exists
+19:06:56	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/light-bootstrap-dashboard/reviewsce8a.html.tmp already exists
+19:06:56	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/get-shit-done-kit/reviews9683.html.tmp already exists
+19:06:56	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/get-shit-done-kit/reviews7537.html.tmp already exists
+19:06:56	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/get-shit-done-kit/reviewsf62c.html.tmp already exists
+19:06:56	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/get-shit-done-kit/reviewse4a7.html.tmp already exists
+19:06:56	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/get-shit-done-kit/reviews8c06.html.tmp already exists
+19:06:56	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/get-shit-done-kit/reviews3c09.html.tmp already exists
+19:06:56	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/get-shit-done-kit/reviews89ae.html.tmp already exists
+19:06:56	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/get-shit-done-kit/reviews1d82.html.tmp already exists
+19:06:57	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-kit/reviews3c09.html.tmp already exists
+19:06:57	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-kit/reviews89ae.html.tmp already exists
+19:06:57	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-kit/reviews1d82.html.tmp already exists
+19:06:57	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-kit/reviews8c06.html.tmp already exists
+19:06:57	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-kit/reviews7083.html.tmp already exists
+19:06:57	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-kit/reviews80c3.html.tmp already exists
+19:06:57	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-kit/reviews6f72.html.tmp already exists
+19:06:57	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-kit/reviews997f.html.tmp already exists
+19:06:58	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard/reviews3c09.html.tmp already exists
+19:06:58	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard/reviews89ae.html.tmp already exists
+19:06:58	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard/reviews1d82.html.tmp already exists
+19:06:58	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard/reviews8c06.html.tmp already exists
+19:06:58	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard/reviews9213.html.tmp already exists
+19:06:58	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard/reviews50be.html.tmp already exists
+19:06:58	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard/reviewsc693.html.tmp already exists
+19:06:58	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/material-dashboard/reviews4f45.html.tmp already exists
+19:06:58	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/paper-dashboard/reviews3c09.html.tmp already exists
+19:06:58	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/paper-dashboard/reviews89ae.html.tmp already exists
+19:06:58	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/paper-dashboard/reviews1d82.html.tmp already exists
+19:06:58	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/paper-dashboard/reviews8c06.html.tmp already exists
+19:06:58	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/paper-dashboard/reviews8b08.html.tmp already exists
+19:06:58	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/paper-dashboard/reviews09f5.html.tmp already exists
+19:06:58	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/paper-dashboard/reviewsf497.html.tmp already exists
+19:06:59	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/product/paper-dashboard/reviews763c.html.tmp already exists
+19:07:06	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/s3.amazonaws.com/creativetim_bucket/photos/432096/thumb824a.jpg.tmp already exists
+19:20:34	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/css/nucleo-icons.css.tmp already exists
+19:20:34	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/css/nucleo-svg.css.tmp already exists
+19:20:34	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/css/soft-design-system-pro.min3f71.css.tmp already exists
+19:20:34	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/down-arrow-dark.svg.tmp already exists
+19:20:34	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/down-arrow.svg.tmp already exists
+19:20:41	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/gray-logos/logo-apple.svg.tmp already exists
+19:20:41	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/gray-logos/logo-facebook.svg.tmp already exists
+19:20:41	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/gray-logos/logo-nasa.svg.tmp already exists
+19:20:41	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/gray-logos/logo-vodafone.svg.tmp already exists
+19:20:41	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/gray-logos/logo-digitalocean.svg.tmp already exists
+19:20:41	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/shapes/waves-white.svg.tmp already exists
+19:20:41	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/shapes/pattern-lines.svg.tmp already exists
+19:20:41	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/assets/creative-tim-product-page-11b2d573e1fa1a110a16e8e4af9edfbddbac3ce86ef14ad98c1dfb4119d76ec5.css.tmp already exists
+19:20:41	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css.tmp already exists
+19:20:41	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/connect.facebook.net/en_US/sdk.js.tmp already exists
+19:20:41	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/assets/logo/logo-ct-white-170d794e447f75aec55c6effdfbedced9dd268ceceece152675ff8f9891e3588.svg.tmp already exists
+19:20:41	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/assets/categories/bootstrap-logo-vector-119f98073fc008015221858fd1e691ab7afc410b921c8ab6c48e3b0b5bf69161.svg.tmp already exists
+19:20:41	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/assets/categories/bootstrap-logo-vector-09fd59e12977ed2b6b03781c02a97d4fd024c669f3770a4af39e07d8703ada46.svg.tmp already exists
+19:20:42	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/assets/logo/logo-ct-white-vertical-16fe9a61708bfb45ccea9452bdea03ebb8c62a7c284764834ec5446366a43d63.svg.tmp already exists
+19:20:42	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/down-arrow-white.svg.tmp already exists
+19:20:42	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/gray-logos/logo-pinterest.svg.tmp already exists
+19:20:42	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/gray-logos/logo-netflix.svg.tmp already exists
+19:20:42	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/gray-logos/logo-coinbase.svg.tmp already exists
+19:20:42	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/small-logos/logo-asana.svg.tmp already exists
+19:20:42	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/small-logos/logo-slack.svg.tmp already exists
+19:20:42	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/small-logos/logo-google-drive.svg.tmp already exists
+19:20:42	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/small-logos/logo-shopify.svg.tmp already exists
+19:20:42	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/small-logos/logo-apple.svg.tmp already exists
+19:20:42	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/small-logos/logo-invision.svg.tmp already exists
+19:20:42	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/small-logos/logo-atlassian.svg.tmp already exists
+19:20:42	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/small-logos/logo-weave.svg.tmp already exists
+19:20:42	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/gray-logos/logo-spotify.svg.tmp already exists
+19:20:42	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/white-logos/logo-spotify-white.svg.tmp already exists
+19:20:42	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/white-logos/logo-google-white.svg.tmp already exists
+19:20:42	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/small-logos/logo-webdev.svg.tmp already exists
+19:20:43	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/medium-logos/logo-google.svg.tmp already exists
+19:20:43	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/medium-logos/logo-spotify.svg.tmp already exists
+19:20:43	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/medium-logos/logo-coinbase.svg.tmp already exists
+19:20:43	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/medium-logos/logo-nasa.svg.tmp already exists
+19:20:43	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/medium-logos/logo-netflix.svg.tmp already exists
+19:20:43	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/medium-logos/logo-pinterest.svg.tmp already exists
+19:20:43	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/medium-logos/logo-vodafone.svg.tmp already exists
+19:20:43	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/small-logos/logo-spotify.svg.tmp already exists
+19:20:43	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/small-logos/logo-jira.svg.tmp already exists
+19:20:43	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/app-store-button.svg.tmp already exists
+19:20:43	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/google-play-button.svg.tmp already exists
+19:20:43	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/gray-logos/logo-behance.svg.tmp already exists
+19:20:43	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/wave-1.svg.tmp already exists
+19:20:44	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/shapes/shape-3.svg.tmp already exists
+19:20:44	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/shapes/shape-2.svg.tmp already exists
+19:20:44	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/shapes/shape-1.svg.tmp already exists
+19:20:44	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/gray-logos/logo-google.svg.tmp already exists
+19:20:44	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/gray-logos/logo-mailchimp.svg.tmp already exists
+19:20:44	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/medium-logos/logo-behance.svg.tmp already exists
+19:20:44	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/medium-logos/logo-apple.svg.tmp already exists
+19:20:44	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/medium-logos/logo-mailchimp.svg.tmp already exists
+19:20:44	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/small-logos/logo-xd.svg.tmp already exists
+19:20:44	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/shapes/waves-gray.svg.tmp already exists
+19:20:44	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/demos.creative-tim.com/soft-ui-design-system-pro/assets/img/logos/medium-logos/logo-facebook.svg.tmp already exists
+19:20:44	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/assets/layouts/campaign/general-2a9289d3b5fa7edd1623ecb001211430bf4462461c31a95ecc631e66978e6848.css.tmp already exists
+19:20:44	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css.tmp already exists
+19:20:44	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/assets/logo/logo-ct-black-ccc266d21409020546b6078e638ea6ba1e124c4717c0d52b85b50d5297cba796.svg.tmp already exists
+19:20:45	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/assets/logo/logo-ct-black-vertical-fd354731dcef09f6af0153494eacaa98d14924e593ef4b8c67c0a17b26b97140.svg.tmp already exists
+19:20:45	Warning: 	engine: warning: temporary file /home/sean/websites/SOFT UI TEMPLATE/www.creative-tim.com/assets/creative-tim-reviews-page-9f8da3953a6a7bef3050559802362eca6337301a27cae786ee96256af52b7247.css.tmp already exists
+19:20:55	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://demos.creative-tim.com/soft-ui-design-system-pro/presentation.html?_ga=2.15061362.519695058.1674476431-246627364.1674476431)
+19:22:09	Error: 	"" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/pages/"https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/funny.jpg" (from https://demos.creative-tim.com/soft-ui-design-system-pro/pages/about-us.html)
+19:22:27	Error: 	"" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/pages/'../assets/img/nastuh.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/pages/digital-agency.html)
+19:22:29	Error: 	"" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/pages/'https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/indian.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/pages/digital-agency.html)
+19:22:34	Error: 	"" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/assets/img/curved-images/curved6-small.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/pricing.html)
+19:22:36	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/'https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/white-architecture.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/blog-posts.html)
+19:22:38	Error: 	"" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/assets/img/office-1.jpeg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/testimonials.html)
+19:22:42	Error: 	"" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/assets/img/curved-images/curved1.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/applications.html)
+19:22:44	Error: 	"" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/"https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/pool.jpg" (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/general-cards.html)
+19:22:46	Error: 	"" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/"https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/macbook.jpg" (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/general-cards.html)
+19:22:46	Error: 	"" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/assets/img/curved-images/curved8.jpg" (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/general-cards.html)
+19:22:48	Error: 	"" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/assets/img/nastuh.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/content-sections.html)
+19:22:50	Error: 	"" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/'https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/cave.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/page-sections/content-sections.html)
+19:22:51	Error: 	"" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/sections/input-areas/assets/img/curved-images/curved1.jpg' (from https://demos.creative-tim.com/soft-ui-design-system-pro/sections/input-areas/contact-sections.html)
+19:24:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.creative-tim.com/assets/bootstrap/glyphicons-halflings-regular-13634da87d9e23f8c3ed9108ce1724d183a39ad072e73e1b3d8cbf646d2d0407.eot
+19:24:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.creative-tim.com/assets/bootstrap/glyphicons-halflings-regular-13634da87d9e23f8c3ed9108ce1724d183a39ad072e73e1b3d8cbf646d2d0407.eot?
+19:24:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.creative-tim.com/assets/bootstrap/glyphicons-halflings-regular-fe185d11a49676890d47bb783312a0cda5a44c4039214094e7957b4c040ef11c.woff2
+19:24:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.creative-tim.com/assets/bootstrap/glyphicons-halflings-regular-a26394f7ede100ca118eff2eda08596275a9839b959c226e15439557a5a80742.woff
+19:24:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.creative-tim.com/assets/bootstrap/glyphicons-halflings-regular-e395044093757d82afcb138957d06a1ea9361bdcf0b442d06a18a8051af57456.ttf
+19:24:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.creative-tim.com/assets/webfonts/ios7/ios7-style-font-icons-54c62a80a2e0b7c20ab14eece1ced832aa14db1c8edbe4be37acdf25a87d27f5.eot
+19:24:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.creative-tim.com/assets/webfonts/ios7/ios7-style-font-icons-54c62a80a2e0b7c20ab14eece1ced832aa14db1c8edbe4be37acdf25a87d27f5.eot?
+19:24:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.creative-tim.com/assets/webfonts/ios7/ios7-style-font-icons-464002754cc52af8a4d700e6ac5075ea66fe3f3b426aae7f9f292f2b6a034f5b.ttf
+19:24:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.creative-tim.com/assets/webfonts/ios7/ios7-style-font-icons-95530d70d09a46a6b2b8ae45bbe5634907cc14ed318aa93883955cd7cb041bc7.woff
+19:24:29	Error: 	"" (530) at link https://www.creative-tim.com/product/black-dashboard-angular/reviews (from https://www.creative-tim.com/product/black-dashboard-angular)
+19:24:29	Error: 	"" (530) at link https://www.creative-tim.com/product/black-dashboard-pro-angular/reviews?page=2 (from https://www.creative-tim.com/product/black-dashboard-pro-angular/reviews)
+19:24:46	Warning: 	HTML file (85762 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-react/reviews?page=22
+19:24:48	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard-react/reviews?page=22 (from https://www.creative-tim.com/product/material-dashboard-react/reviews?page=18)
+19:24:48	Warning: 	HTML file (85762 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-react/reviews?page=22
+19:24:50	Warning: 	HTML file (85759 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=25
+19:24:52	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=25 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=21)
+19:24:52	Warning: 	HTML file (85759 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=25
+19:24:52	Warning: 	HTML file (85533 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=53
+19:24:53	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=53 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=57)
+19:24:53	Warning: 	HTML file (85752 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=50
+19:24:53	Warning: 	HTML file (85533 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=53
+19:24:54	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=50 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=54)
+19:24:54	Warning: 	HTML file (85658 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=22
+19:24:54	Warning: 	HTML file (85752 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=50
+19:24:55	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=22 (from https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=18)
+19:24:55	Warning: 	HTML file (85658 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=22
+19:24:55	Warning: 	HTML file (85754 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=42
+19:24:56	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=42 (from https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=46)
+19:24:56	Warning: 	HTML file (85670 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=39
+19:24:56	Warning: 	HTML file (85754 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=42
+19:24:57	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=39 (from https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=43)
+19:24:57	Warning: 	HTML file (85670 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=39
+19:25:02	Warning: 	HTML file (85956 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-pro/reviews?page=27
+19:25:04	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard-pro/reviews?page=27 (from https://www.creative-tim.com/product/material-dashboard-pro/reviews?page=23)
+19:25:04	Warning: 	HTML file (85662 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-pro/reviews?page=28
+19:25:04	Warning: 	HTML file (85956 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-pro/reviews?page=27
+19:25:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.creative-tim.com/product/material-dashboard-pro/reviews?page=28 (from https://www.creative-tim.com/product/material-dashboard-pro/reviews?page=24)
+19:25:05	Warning: 	HTML file (85662 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-pro/reviews?page=28
+19:25:05	Warning: 	HTML file (85788 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit-pro/reviews?page=26
+19:25:07	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit-pro/reviews?page=26 (from https://www.creative-tim.com/product/material-kit-pro/reviews?page=22)
+19:25:07	Warning: 	HTML file (85810 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit-pro/reviews?page=28
+19:25:07	Warning: 	HTML file (85788 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit-pro/reviews?page=26
+19:25:09	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit-pro/reviews?page=28 (from https://www.creative-tim.com/product/material-kit-pro/reviews?page=24)
+19:25:09	Warning: 	HTML file (85628 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit-pro/reviews?page=29
+19:25:09	Warning: 	HTML file (85810 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit-pro/reviews?page=28
+19:25:10	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit-pro/reviews?page=29 (from https://www.creative-tim.com/product/material-kit-pro/reviews?page=25)
+19:25:10	Warning: 	HTML file (85790 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit-pro/reviews?page=30
+19:25:10	Warning: 	HTML file (85628 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit-pro/reviews?page=29
+19:25:11	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit-pro/reviews?page=30 (from https://www.creative-tim.com/product/material-kit-pro/reviews?page=34)
+19:25:11	Warning: 	HTML file (85790 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit-pro/reviews?page=30
+19:25:11	Warning: 	HTML file (85839 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit-pro-bs4/reviews?page=26
+19:25:12	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit-pro-bs4/reviews?page=26 (from https://www.creative-tim.com/product/material-kit-pro-bs4/reviews?page=22)
+19:25:12	Warning: 	HTML file (85839 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit-pro-bs4/reviews?page=26
+19:25:12	Warning: 	HTML file (85853 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=25
+19:25:13	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=25 (from https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=21)
+19:25:13	Warning: 	HTML file (85973 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=37
+19:25:13	Warning: 	HTML file (85853 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=25
+19:25:14	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=37 (from https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=41)
+19:25:14	Warning: 	HTML file (85973 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=37
+19:25:17	Warning: 	HTML file (85462 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=26
+19:25:18	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=26 (from https://www.creative-tim.com/product/material-kit/reviews?page=22)
+19:25:18	Warning: 	HTML file (85432 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=28
+19:25:18	Warning: 	HTML file (85462 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=26
+19:25:19	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=28 (from https://www.creative-tim.com/product/material-kit/reviews?page=24)
+19:25:19	Warning: 	HTML file (85474 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=29
+19:25:19	Warning: 	HTML file (85432 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=28
+19:25:20	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=29 (from https://www.creative-tim.com/product/material-kit/reviews?page=25)
+19:25:20	Warning: 	HTML file (85474 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=29
+19:25:22	Warning: 	HTML file (85778 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=88
+19:25:24	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=88 (from https://www.creative-tim.com/product/material-kit/reviews?page=92)
+19:25:24	Warning: 	HTML file (85778 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=88
+19:25:24	Warning: 	HTML file (85687 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=26
+19:25:25	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=26 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=22)
+19:25:25	Warning: 	HTML file (85508 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=27
+19:25:25	Warning: 	HTML file (85687 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=26
+19:25:26	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=27 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=23)
+19:25:26	Warning: 	HTML file (85508 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=27
+19:25:28	Warning: 	HTML file (85645 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=97
+19:25:30	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=97 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=101)
+19:25:30	Warning: 	HTML file (85645 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=97
+19:25:32	Warning: 	HTML file (85399 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/paper-dashboard/reviews?page=26
+19:25:34	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/paper-dashboard/reviews?page=26 (from https://www.creative-tim.com/product/paper-dashboard/reviews?page=22)
+19:25:34	Warning: 	HTML file (85484 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/paper-dashboard/reviews?page=27
+19:25:34	Warning: 	HTML file (85399 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/paper-dashboard/reviews?page=26
+19:25:35	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/paper-dashboard/reviews?page=27 (from https://www.creative-tim.com/product/paper-dashboard/reviews?page=23)
+19:25:35	Warning: 	HTML file (85568 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/paper-dashboard/reviews?page=35
+19:25:35	Warning: 	HTML file (85484 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/paper-dashboard/reviews?page=27
+19:25:36	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/paper-dashboard/reviews?page=35 (from https://www.creative-tim.com/product/paper-dashboard/reviews?page=39)
+19:25:36	Warning: 	HTML file (85568 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/paper-dashboard/reviews?page=35
+19:25:36	Warning: 	HTML file (85712 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-react/reviews?page=26
+19:25:37	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard-react/reviews?page=26 (from https://www.creative-tim.com/product/material-dashboard-react/reviews?page=22)
+19:25:37	Warning: 	HTML file (85375 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=28
+19:25:37	Warning: 	HTML file (85712 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-react/reviews?page=26
+19:25:38	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=28 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=24)
+19:25:38	Warning: 	HTML file (85375 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=28
+19:25:40	Warning: 	HTML file (85790 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=49
+19:25:42	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=49 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=53)
+19:25:42	Warning: 	HTML file (85790 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=49
+19:25:42	Warning: 	HTML file (85767 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=26
+19:25:43	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=26 (from https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=22)
+19:25:43	Warning: 	HTML file (85725 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=38
+19:25:43	Warning: 	HTML file (85767 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=26
+19:25:44	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=38 (from https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=42)
+19:25:44	Warning: 	HTML file (85848 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=35
+19:25:44	Warning: 	HTML file (85725 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=38
+19:25:45	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=35 (from https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=39)
+19:25:45	Warning: 	HTML file (85848 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=35
+19:25:45	Warning: 	HTML file (85816 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=26
+19:25:46	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=26 (from https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=22)
+19:25:46	Warning: 	HTML file (85810 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=28
+19:25:46	Warning: 	HTML file (85816 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=26
+19:25:47	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=28 (from https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=24)
+19:25:47	Warning: 	HTML file (85755 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=29
+19:25:47	Warning: 	HTML file (85810 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=28
+19:25:48	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=29 (from https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=25)
+19:25:48	Warning: 	HTML file (85869 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=33
+19:25:48	Warning: 	HTML file (85755 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=29
+19:25:49	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=33 (from https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=37)
+19:25:49	Warning: 	HTML file (85750 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=30
+19:25:49	Warning: 	HTML file (85869 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=33
+19:25:50	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=30 (from https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=34)
+19:25:50	Warning: 	HTML file (85750 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=30
+19:25:52	Warning: 	HTML file (85455 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=30
+19:25:53	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=30 (from https://www.creative-tim.com/product/material-kit/reviews?page=26)
+19:25:53	Warning: 	HTML file (85529 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=31
+19:25:53	Warning: 	HTML file (85455 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=30
+19:25:54	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=31 (from https://www.creative-tim.com/product/material-kit/reviews?page=27)
+19:25:54	Warning: 	HTML file (85686 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=87
+19:25:54	Warning: 	HTML file (85529 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=31
+19:25:55	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=87 (from https://www.creative-tim.com/product/material-kit/reviews?page=91)
+19:25:55	Warning: 	HTML file (85686 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=87
+19:25:57	Warning: 	HTML file (85770 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=84
+19:25:58	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=84 (from https://www.creative-tim.com/product/material-kit/reviews?page=88)
+19:25:58	Warning: 	HTML file (85770 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=84
+19:25:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://s3.amazonaws.com/creativetim_bucket/photos/189626/thumb.?1494051915 (from https://www.creative-tim.com/product/material-kit/reviews?page=90)
+19:25:59	Warning: 	HTML file (85624 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=30
+19:26:01	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=30 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=26)
+19:26:01	Warning: 	HTML file (85594 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=31
+19:26:01	Warning: 	HTML file (85624 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=30
+19:26:02	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=31 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=27)
+19:26:02	Warning: 	HTML file (85721 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=96
+19:26:02	Warning: 	HTML file (85594 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=31
+19:26:04	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=96 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=100)
+19:26:04	Warning: 	HTML file (85721 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=96
+19:26:04	Warning: 	HTML file (85326 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/paper-dashboard/reviews?page=30
+19:26:05	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/paper-dashboard/reviews?page=30 (from https://www.creative-tim.com/product/paper-dashboard/reviews?page=26)
+19:26:05	Warning: 	HTML file (85326 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/paper-dashboard/reviews?page=30
+19:26:09	Warning: 	HTML file (85564 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=31
+19:26:10	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=31 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=27)
+19:26:10	Warning: 	HTML file (85556 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=45
+19:26:10	Warning: 	HTML file (85564 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=31
+19:26:11	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=45 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=49)
+19:26:11	Warning: 	HTML file (85556 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=45
+19:26:11	Warning: 	HTML file (85714 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=34
+19:26:12	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=34 (from https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=38)
+19:26:12	Warning: 	HTML file (85714 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=34
+19:26:14	Warning: 	HTML file (85442 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=34
+19:26:16	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=34 (from https://www.creative-tim.com/product/material-kit/reviews?page=30)
+19:26:16	Warning: 	HTML file (85506 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=80
+19:26:16	Warning: 	HTML file (85442 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=34
+19:26:17	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=80 (from https://www.creative-tim.com/product/material-kit/reviews?page=84)
+19:26:17	Warning: 	HTML file (85506 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=80
+19:26:17	Warning: 	HTML file (85633 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=92
+19:26:18	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=92 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=96)
+19:26:18	Warning: 	HTML file (85633 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=92
+19:26:18	Warning: 	HTML file (85532 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=34
+19:26:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=34 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=30)
+19:26:19	Warning: 	HTML file (85532 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=34
+19:26:23	Warning: 	HTML file (85481 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=41
+19:26:24	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=41 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=45)
+19:26:24	Warning: 	HTML file (85482 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=38
+19:26:24	Warning: 	HTML file (85481 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=41
+19:26:25	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=38 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=42)
+19:26:25	Warning: 	HTML file (86160 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=38
+19:26:25	Warning: 	HTML file (85482 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=38
+19:26:26	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=38 (from https://www.creative-tim.com/product/material-kit/reviews?page=34)
+19:26:26	Warning: 	HTML file (86160 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=38
+19:26:28	Warning: 	HTML file (85634 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=40
+19:26:29	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=40 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=36)
+19:26:29	Warning: 	HTML file (85644 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=41
+19:26:29	Warning: 	HTML file (85634 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=40
+19:26:30	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=41 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=37)
+19:26:30	Warning: 	HTML file (85644 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=41
+19:26:34	Warning: 	HTML file (85674 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=84
+19:26:36	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=84 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=88)
+19:26:36	Warning: 	HTML file (85674 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=84
+19:26:36	Warning: 	HTML file (85627 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=48
+19:26:37	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=48 (from https://www.creative-tim.com/product/material-kit/reviews?page=44)
+19:26:37	Warning: 	HTML file (85627 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=48
+19:26:40	Warning: 	HTML file (85746 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=46
+19:26:41	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=46 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=42)
+19:26:42	Warning: 	HTML file (85561 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=48
+19:26:42	Warning: 	HTML file (85746 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=46
+19:26:43	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=48 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=44)
+19:26:43	Warning: 	HTML file (85638 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=77
+19:26:43	Warning: 	HTML file (85561 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=48
+19:26:44	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=77 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=81)
+19:26:44	Warning: 	HTML file (85638 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=77
+19:26:44	Warning: 	HTML file (85602 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=50
+19:26:45	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=50 (from https://www.creative-tim.com/product/material-kit/reviews?page=46)
+19:26:45	Warning: 	HTML file (85602 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=50
+19:26:45	Warning: 	HTML file (85676 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=64
+19:26:46	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=64 (from https://www.creative-tim.com/product/material-kit/reviews?page=68)
+19:26:46	Warning: 	HTML file (85683 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=76
+19:26:46	Warning: 	HTML file (85676 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=64
+19:26:47	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=76 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=80)
+19:26:47	Warning: 	HTML file (85699 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=73
+19:26:47	Warning: 	HTML file (85683 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=76
+19:26:48	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=73 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=77)
+19:26:48	Warning: 	HTML file (85699 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=73
+19:26:48	Warning: 	HTML file (85549 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=54
+19:26:49	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=54 (from https://www.creative-tim.com/product/material-kit/reviews?page=50)
+19:26:49	Warning: 	HTML file (85549 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=54
+19:26:51	Warning: 	HTML file (85570 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=56
+19:26:52	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=56 (from https://www.creative-tim.com/product/material-kit/reviews?page=52)
+19:26:52	Warning: 	HTML file (85509 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=63
+19:26:52	Warning: 	HTML file (85570 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=56
+19:26:53	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=63 (from https://www.creative-tim.com/product/material-kit/reviews?page=67)
+19:26:53	Warning: 	HTML file (85733 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=54
+19:26:53	Warning: 	HTML file (85509 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=63
+19:26:54	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=54 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=50)
+19:26:54	Warning: 	HTML file (85847 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=72
+19:26:54	Warning: 	HTML file (85733 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=54
+19:26:55	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=72 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=76)
+19:26:55	Warning: 	HTML file (85539 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=69
+19:26:55	Warning: 	HTML file (85847 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=72
+19:26:56	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=69 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=73)
+19:26:56	Warning: 	HTML file (85648 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=58
+19:26:56	Warning: 	HTML file (85539 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=69
+19:26:57	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=58 (from https://www.creative-tim.com/product/material-kit/reviews?page=54)
+19:26:57	Warning: 	HTML file (85648 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=58
+19:26:57	Warning: 	HTML file (85664 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=58
+19:26:58	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=58 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=54)
+19:26:58	Warning: 	HTML file (85592 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=59
+19:26:58	Warning: 	HTML file (85664 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=58
+19:26:59	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=59 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=55)
+19:26:59	Warning: 	HTML file (85783 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=61
+19:26:59	Warning: 	HTML file (85592 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=59
+19:27:00	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=61 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=57)
+19:27:00	Warning: 	HTML file (85524 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=68
+19:27:00	Warning: 	HTML file (85783 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=61
+19:27:01	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=68 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=72)
+19:27:01	Warning: 	HTML file (85524 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=68
+19:27:06	Warning: 	HTML file (85555 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=63
+19:27:08	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=63 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=59)
+19:27:08	Warning: 	HTML file (85555 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=63
+19:27:10	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/assets/css/images/layers.png (from https://demos.creative-tim.com/soft-ui-design-system-pro/assets/css/soft-design-system-pro.min.css?v=1.1.1)
+19:27:10	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/assets/css/images/layers-2x.png (from https://demos.creative-tim.com/soft-ui-design-system-pro/assets/css/soft-design-system-pro.min.css?v=1.1.1)
+19:27:10	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/soft-ui-design-system-pro/assets/css/images/marker-icon.png (from https://demos.creative-tim.com/soft-ui-design-system-pro/assets/css/soft-design-system-pro.min.css?v=1.1.1)
+19:27:10	Error: 	"Not Found" (404) at link https://www.creative-tim.com/images/layers.png (from https://www.creative-tim.com/assets/layouts/campaign/general-2a9289d3b5fa7edd1623ecb001211430bf4462461c31a95ecc631e66978e6848.css)
+19:27:10	Error: 	"Not Found" (404) at link https://www.creative-tim.com/images/layers-2x.png (from https://www.creative-tim.com/assets/layouts/campaign/general-2a9289d3b5fa7edd1623ecb001211430bf4462461c31a95ecc631e66978e6848.css)
+19:27:10	Error: 	"Not Found" (404) at link https://www.creative-tim.com/images/marker-icon.png (from https://www.creative-tim.com/assets/layouts/campaign/general-2a9289d3b5fa7edd1623ecb001211430bf4462461c31a95ecc631e66978e6848.css)
+19:27:10	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard-react/reviews?page=22 (from https://www.creative-tim.com/product/material-dashboard-react/reviews?page=18)
+19:27:10	Warning: 	HTML file (85762 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-react/reviews?page=22
+19:27:10	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=25 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=21)
+19:27:10	Warning: 	HTML file (85759 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=25
+19:27:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=53 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=57)
+19:27:12	Warning: 	HTML file (85533 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=53
+19:27:13	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=50 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=54)
+19:27:13	Warning: 	HTML file (85752 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=50
+19:27:16	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=22 (from https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=18)
+19:27:16	Warning: 	HTML file (85658 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=22
+19:27:16	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=42 (from https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=46)
+19:27:16	Warning: 	HTML file (85754 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=42
+19:27:18	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=39 (from https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=43)
+19:27:18	Warning: 	HTML file (85670 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=39
+19:27:19	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard-pro/reviews?page=27 (from https://www.creative-tim.com/product/material-dashboard-pro/reviews?page=23)
+19:27:19	Warning: 	HTML file (85956 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-pro/reviews?page=27
+19:27:24	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard-pro/reviews?page=28 (from https://www.creative-tim.com/product/material-dashboard-pro/reviews?page=24)
+19:27:24	Warning: 	HTML file (85662 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-pro/reviews?page=28
+19:27:24	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit-pro/reviews?page=26 (from https://www.creative-tim.com/product/material-kit-pro/reviews?page=22)
+19:27:24	Warning: 	HTML file (85788 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit-pro/reviews?page=26
+19:27:25	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit-pro/reviews?page=28 (from https://www.creative-tim.com/product/material-kit-pro/reviews?page=24)
+19:27:25	Warning: 	HTML file (85810 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit-pro/reviews?page=28
+19:27:26	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit-pro/reviews?page=29 (from https://www.creative-tim.com/product/material-kit-pro/reviews?page=25)
+19:27:26	Warning: 	HTML file (85628 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit-pro/reviews?page=29
+19:27:30	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit-pro/reviews?page=30 (from https://www.creative-tim.com/product/material-kit-pro/reviews?page=34)
+19:27:30	Warning: 	HTML file (85790 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit-pro/reviews?page=30
+19:27:30	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit-pro-bs4/reviews?page=26 (from https://www.creative-tim.com/product/material-kit-pro-bs4/reviews?page=22)
+19:27:30	Warning: 	HTML file (85839 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit-pro-bs4/reviews?page=26
+19:27:31	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=25 (from https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=21)
+19:27:31	Warning: 	HTML file (85853 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=25
+19:27:33	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=37 (from https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=41)
+19:27:33	Warning: 	HTML file (85973 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=37
+19:27:36	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=26 (from https://www.creative-tim.com/product/material-kit/reviews?page=22)
+19:27:36	Warning: 	HTML file (85462 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=26
+19:27:37	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=28 (from https://www.creative-tim.com/product/material-kit/reviews?page=24)
+19:27:37	Warning: 	HTML file (85432 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=28
+19:27:38	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=29 (from https://www.creative-tim.com/product/material-kit/reviews?page=25)
+19:27:38	Warning: 	HTML file (85474 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=29
+19:27:39	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=88 (from https://www.creative-tim.com/product/material-kit/reviews?page=92)
+19:27:39	Warning: 	HTML file (85778 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=88
+19:27:43	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=26 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=22)
+19:27:43	Warning: 	HTML file (85687 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=26
+19:27:43	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=27 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=23)
+19:27:43	Warning: 	HTML file (85508 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=27
+19:27:44	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=97 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=101)
+19:27:44	Warning: 	HTML file (85645 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=97
+19:27:46	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/paper-dashboard/reviews?page=26 (from https://www.creative-tim.com/product/paper-dashboard/reviews?page=22)
+19:27:46	Warning: 	HTML file (85399 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/paper-dashboard/reviews?page=26
+19:27:49	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/paper-dashboard/reviews?page=27 (from https://www.creative-tim.com/product/paper-dashboard/reviews?page=23)
+19:27:49	Warning: 	HTML file (85484 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/paper-dashboard/reviews?page=27
+19:27:50	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/paper-dashboard/reviews?page=35 (from https://www.creative-tim.com/product/paper-dashboard/reviews?page=39)
+19:27:50	Warning: 	HTML file (85568 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/paper-dashboard/reviews?page=35
+19:27:51	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard-react/reviews?page=26 (from https://www.creative-tim.com/product/material-dashboard-react/reviews?page=22)
+19:27:51	Warning: 	HTML file (85712 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-react/reviews?page=26
+19:27:51	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=28 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=24)
+19:27:51	Warning: 	HTML file (85375 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=28
+19:27:52	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=49 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=53)
+19:27:52	Warning: 	HTML file (85790 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=49
+19:27:56	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=26 (from https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=22)
+19:27:56	Warning: 	HTML file (85767 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=26
+19:27:57	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=38 (from https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=42)
+19:27:57	Warning: 	HTML file (85725 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=38
+19:27:57	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=35 (from https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=39)
+19:27:57	Warning: 	HTML file (85848 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=35
+19:27:58	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=26 (from https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=22)
+19:27:58	Warning: 	HTML file (85816 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=26
+19:28:02	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=28 (from https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=24)
+19:28:02	Warning: 	HTML file (85810 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=28
+19:28:03	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=29 (from https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=25)
+19:28:03	Warning: 	HTML file (85755 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=29
+19:28:03	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=33 (from https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=37)
+19:28:03	Warning: 	HTML file (85869 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=33
+19:28:05	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=30 (from https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=34)
+19:28:05	Warning: 	HTML file (85750 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=30
+19:28:09	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=30 (from https://www.creative-tim.com/product/material-kit/reviews?page=26)
+19:28:09	Warning: 	HTML file (85455 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=30
+19:28:10	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=31 (from https://www.creative-tim.com/product/material-kit/reviews?page=27)
+19:28:10	Warning: 	HTML file (85529 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=31
+19:28:10	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=87 (from https://www.creative-tim.com/product/material-kit/reviews?page=91)
+19:28:10	Warning: 	HTML file (85686 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=87
+19:28:11	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=84 (from https://www.creative-tim.com/product/material-kit/reviews?page=88)
+19:28:11	Warning: 	HTML file (85770 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=84
+19:28:17	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=30 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=26)
+19:28:17	Warning: 	HTML file (85624 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=30
+19:28:17	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=31 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=27)
+19:28:17	Warning: 	HTML file (85594 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=31
+19:28:17	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=96 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=100)
+19:28:17	Warning: 	HTML file (85721 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=96
+19:28:18	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/paper-dashboard/reviews?page=30 (from https://www.creative-tim.com/product/paper-dashboard/reviews?page=26)
+19:28:18	Warning: 	HTML file (85326 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/paper-dashboard/reviews?page=30
+19:28:23	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=31 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=27)
+19:28:23	Warning: 	HTML file (85564 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=31
+19:28:23	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=45 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=49)
+19:28:23	Warning: 	HTML file (85556 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=45
+19:28:23	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=34 (from https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=38)
+19:28:23	Warning: 	HTML file (85714 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=34
+19:28:24	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=34 (from https://www.creative-tim.com/product/material-kit/reviews?page=30)
+19:28:24	Warning: 	HTML file (85442 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=34
+19:28:29	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=80 (from https://www.creative-tim.com/product/material-kit/reviews?page=84)
+19:28:29	Warning: 	HTML file (85506 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=80
+19:28:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=92 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=96)
+19:28:29	Warning: 	HTML file (85633 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=92
+19:28:31	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=34 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=30)
+19:28:31	Warning: 	HTML file (85532 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=34
+19:28:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://s3.amazonaws.com/creativetim_bucket/photos/341478/thumb.?1517000504 (from https://s3.amazonaws.com/creativetim_bucket/photos/341478/thumb.?1517000504)
+19:28:33	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=41 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=45)
+19:28:33	Warning: 	HTML file (85481 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=41
+19:28:36	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=38 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=42)
+19:28:36	Warning: 	HTML file (85482 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/now-ui-kit/reviews?page=38
+19:28:36	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=38 (from https://www.creative-tim.com/product/material-kit/reviews?page=34)
+19:28:36	Warning: 	HTML file (86160 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=38
+19:28:37	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=40 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=36)
+19:28:37	Warning: 	HTML file (85634 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=40
+19:28:39	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=41 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=37)
+19:28:39	Warning: 	HTML file (85644 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=41
+19:28:42	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=84 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=88)
+19:28:42	Warning: 	HTML file (85674 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=84
+19:28:42	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=48 (from https://www.creative-tim.com/product/material-kit/reviews?page=44)
+19:28:42	Warning: 	HTML file (85627 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=48
+19:28:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://s3.amazonaws.com/creativetim_bucket/photos/269304/thumb.?1506603297 (from https://s3.amazonaws.com/creativetim_bucket/photos/269304/thumb.?1506603297)
+19:28:46	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=46 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=42)
+19:28:46	Warning: 	HTML file (85746 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=46
+19:28:46	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=48 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=44)
+19:28:46	Warning: 	HTML file (85561 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=48
+19:28:49	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=77 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=81)
+19:28:49	Warning: 	HTML file (85638 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=77
+19:28:50	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=50 (from https://www.creative-tim.com/product/material-kit/reviews?page=46)
+19:28:50	Warning: 	HTML file (85602 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=50
+19:28:50	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=64 (from https://www.creative-tim.com/product/material-kit/reviews?page=68)
+19:28:50	Warning: 	HTML file (85676 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=64
+19:28:52	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=76 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=80)
+19:28:52	Warning: 	HTML file (85683 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=76
+19:28:52	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=73 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=77)
+19:28:52	Warning: 	HTML file (85699 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=73
+19:28:56	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=54 (from https://www.creative-tim.com/product/material-kit/reviews?page=50)
+19:28:56	Warning: 	HTML file (85549 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=54
+19:28:56	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=56 (from https://www.creative-tim.com/product/material-kit/reviews?page=52)
+19:28:56	Warning: 	HTML file (85570 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=56
+19:28:58	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=63 (from https://www.creative-tim.com/product/material-kit/reviews?page=67)
+19:28:58	Warning: 	HTML file (85509 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=63
+19:28:58	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=54 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=50)
+19:28:58	Warning: 	HTML file (85733 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=54
+19:29:03	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=72 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=76)
+19:29:03	Warning: 	HTML file (85847 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=72
+19:29:03	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=69 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=73)
+19:29:03	Warning: 	HTML file (85539 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=69
+19:29:05	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-kit/reviews?page=58 (from https://www.creative-tim.com/product/material-kit/reviews?page=54)
+19:29:05	Warning: 	HTML file (85648 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-kit/reviews?page=58
+19:29:05	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=58 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=54)
+19:29:05	Warning: 	HTML file (85664 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=58
+19:29:09	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=59 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=55)
+19:29:09	Warning: 	HTML file (85592 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=59
+19:29:09	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=61 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=57)
+19:29:09	Warning: 	HTML file (85783 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=61
+19:29:12	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=68 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=72)
+19:29:12	Warning: 	HTML file (85524 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=68
+19:29:12	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.creative-tim.com/product/material-dashboard/reviews?page=63 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=59)
+19:29:12	Warning: 	HTML file (85555 bytes) retransferred due to lack of cache: https://www.creative-tim.com/product/material-dashboard/reviews?page=63
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard-react/reviews?page=22 (from https://www.creative-tim.com/product/material-dashboard-react/reviews?page=18)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=25 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=21)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=53 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=57)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=50 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=54)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=22 (from https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=18)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=42 (from https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=46)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=39 (from https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=43)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard-pro/reviews?page=27 (from https://www.creative-tim.com/product/material-dashboard-pro/reviews?page=23)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard-pro/reviews?page=28 (from https://www.creative-tim.com/product/material-dashboard-pro/reviews?page=24)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-kit-pro/reviews?page=26 (from https://www.creative-tim.com/product/material-kit-pro/reviews?page=22)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-kit-pro/reviews?page=28 (from https://www.creative-tim.com/product/material-kit-pro/reviews?page=24)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-kit-pro/reviews?page=29 (from https://www.creative-tim.com/product/material-kit-pro/reviews?page=25)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-kit-pro/reviews?page=30 (from https://www.creative-tim.com/product/material-kit-pro/reviews?page=34)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-kit-pro-bs4/reviews?page=26 (from https://www.creative-tim.com/product/material-kit-pro-bs4/reviews?page=22)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=25 (from https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=21)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=37 (from https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=41)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-kit/reviews?page=26 (from https://www.creative-tim.com/product/material-kit/reviews?page=22)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-kit/reviews?page=28 (from https://www.creative-tim.com/product/material-kit/reviews?page=24)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-kit/reviews?page=29 (from https://www.creative-tim.com/product/material-kit/reviews?page=25)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-kit/reviews?page=88 (from https://www.creative-tim.com/product/material-kit/reviews?page=92)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard/reviews?page=26 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=22)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard/reviews?page=27 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=23)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard/reviews?page=97 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=101)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/paper-dashboard/reviews?page=26 (from https://www.creative-tim.com/product/paper-dashboard/reviews?page=22)
+19:29:15	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.creative-tim.com/product/paper-dashboard/reviews?page=27 (from https://www.creative-tim.com/product/paper-dashboard/reviews?page=23)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/paper-dashboard/reviews?page=35 (from https://www.creative-tim.com/product/paper-dashboard/reviews?page=39)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard-react/reviews?page=26 (from https://www.creative-tim.com/product/material-dashboard-react/reviews?page=22)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=28 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=24)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=49 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=53)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=26 (from https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=22)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=38 (from https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=42)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=35 (from https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=39)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=26 (from https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=22)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=28 (from https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=24)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=29 (from https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=25)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=33 (from https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=37)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=30 (from https://www.creative-tim.com/product/light-bootstrap-dashboard/reviews?page=34)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-kit/reviews?page=30 (from https://www.creative-tim.com/product/material-kit/reviews?page=26)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-kit/reviews?page=31 (from https://www.creative-tim.com/product/material-kit/reviews?page=27)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-kit/reviews?page=87 (from https://www.creative-tim.com/product/material-kit/reviews?page=91)
+19:29:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-kit/reviews?page=84 (from https://www.creative-tim.com/product/material-kit/reviews?page=88)
+19:29:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://s3.amazonaws.com/creativetim_bucket/photos/189626/thumb.?1494051915 (from https://s3.amazonaws.com/creativetim_bucket/photos/189626/thumb.?1494051915)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard/reviews?page=30 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=26)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard/reviews?page=31 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=27)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard/reviews?page=96 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=100)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/paper-dashboard/reviews?page=30 (from https://www.creative-tim.com/product/paper-dashboard/reviews?page=26)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=31 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=27)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=45 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=49)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=34 (from https://www.creative-tim.com/product/material-dashboard-angular2/reviews?page=38)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-kit/reviews?page=34 (from https://www.creative-tim.com/product/material-kit/reviews?page=30)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-kit/reviews?page=80 (from https://www.creative-tim.com/product/material-kit/reviews?page=84)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard/reviews?page=92 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=96)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=34 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=30)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=41 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=45)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/now-ui-kit/reviews?page=38 (from https://www.creative-tim.com/product/now-ui-kit/reviews?page=42)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-kit/reviews?page=38 (from https://www.creative-tim.com/product/material-kit/reviews?page=34)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard/reviews?page=40 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=36)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard/reviews?page=41 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=37)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard/reviews?page=84 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=88)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-kit/reviews?page=48 (from https://www.creative-tim.com/product/material-kit/reviews?page=44)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard/reviews?page=46 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=42)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard/reviews?page=48 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=44)
+19:29:16	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard/reviews?page=77 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=81)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-kit/reviews?page=50 (from https://www.creative-tim.com/product/material-kit/reviews?page=46)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-kit/reviews?page=64 (from https://www.creative-tim.com/product/material-kit/reviews?page=68)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard/reviews?page=76 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=80)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard/reviews?page=73 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=77)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-kit/reviews?page=54 (from https://www.creative-tim.com/product/material-kit/reviews?page=50)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-kit/reviews?page=56 (from https://www.creative-tim.com/product/material-kit/reviews?page=52)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-kit/reviews?page=63 (from https://www.creative-tim.com/product/material-kit/reviews?page=67)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard/reviews?page=54 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=50)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard/reviews?page=72 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=76)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard/reviews?page=69 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=73)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-kit/reviews?page=58 (from https://www.creative-tim.com/product/material-kit/reviews?page=54)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard/reviews?page=58 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=54)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard/reviews?page=59 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=55)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard/reviews?page=61 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=57)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard/reviews?page=68 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=72)
+19:29:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.creative-tim.com/product/material-dashboard/reviews?page=63 (from https://www.creative-tim.com/product/material-dashboard/reviews?page=59)
+
+HTTrack Website Copier/3.49-2 mirror complete in 25 minutes 3 seconds : 5299 links scanned, 6372 files written (397913861 bytes overall), 620 files updated [28930753 bytes received at 19248 bytes/sec], 23917689 bytes transferred using HTTP compression in 286 files, ratio 27%, 1.2 requests per connection
+(146 errors, 562 warnings, 0 messages)
